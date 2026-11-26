@@ -24,6 +24,18 @@
     "changelog": "https://github.com/OnyxZygisk/OnyxZygisk/releases"
   },
   {
+    "id": "rezygask",
+    "name": "ReZygask",
+    "author": "PerformanC",
+    "description": "Standalone Zygisk implementation fork.",
+    "version": "1.0.0",
+    "versionCode": 100,
+    "updateJson": "",
+    "zipUrl": "https://github.com/PerformanC/ReZygisk/releases/latest",
+    "icon": "",
+    "changelog": "https://github.com/PerformanC/ReZygisk/releases"
+  },
+  {
     "id": "zygisk_assistant",
     "name": "Zygisk Assistant",
     "author": "snake-4",
@@ -46,6 +58,18 @@
     "zipUrl": "https://github.com/RikkaApps/Sui/releases/latest",
     "icon": "",
     "changelog": "https://github.com/RikkaApps/Sui/releases"
+  },
+  {
+    "id": "hide_my_app_oss",
+    "name": "HideMyApp-OSS (HMA-OSS)",
+    "author": "Xposed-Modules-Repo",
+    "description": "Hide applications from root and environment detection.",
+    "version": "oss-162",
+    "versionCode": 162,
+    "updateJson": "",
+    "zipUrl": "https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist/releases/latest",
+    "icon": "",
+    "changelog": "https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist/releases"
   },
   {
     "id": "play_integrity_fork",
@@ -142,6 +166,18 @@
     "zipUrl": "https://github.com/KernelSU-Next/ZeroMount/releases/latest",
     "icon": "",
     "changelog": "https://github.com/KernelSU-Next/ZeroMount/releases"
+  },
+  {
+    "id": "vector_canary",
+    "name": "Vector (Canary)",
+    "author": "JingMatrix",
+    "description": "Modern Xposed framework implementation (Canary build) for Zygisk.",
+    "version": "canary",
+    "versionCode": 9999,
+    "updateJson": "",
+    "zipUrl": "https://github.com/JingMatrix/Vector/releases",
+    "icon": "",
+    "changelog": "https://github.com/JingMatrix/Vector/releases"
   },
   {
     "id": "copg_spoofer",

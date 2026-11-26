@@ -8,7 +8,6 @@
     "versionCode": 153,
     "updateJson": "https://raw.githubusercontent.com/Dr-TSNG/ZygiskNext/master/update.json",
     "zipUrl": "https://github.com/Dr-TSNG/ZygiskNext/releases/download/v1.5.3/ZygiskNext-v1.5.3-153-release.zip",
-    "icon": "",
     "changelog": "https://github.com/Dr-TSNG/ZygiskNext/releases"
   },
   {
@@ -18,9 +17,7 @@
     "description": "Alternative Zygisk implementation for KernelSU and APatch.",
     "version": "v1.09",
     "versionCode": 399,
-    "updateJson": "",
     "zipUrl": "https://github.com/OnyxZygisk/OnyxZygisk/releases/download/v1.09/OnyxZygisk-v1.09-399-820b68b-release.zip",
-    "icon": "",
     "changelog": "https://github.com/OnyxZygisk/OnyxZygisk/releases"
   },
   {
@@ -30,9 +27,7 @@
     "description": "Standalone Zygisk implementation fork.",
     "version": "1.0.0",
     "versionCode": 100,
-    "updateJson": "",
     "zipUrl": "https://github.com/PerformanC/ReZygisk/releases/latest/download/ReZygisk.zip",
-    "icon": "",
     "changelog": "https://github.com/PerformanC/ReZygisk/releases"
   },
   {
@@ -44,7 +39,6 @@
     "versionCode": 214,
     "updateJson": "https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/main/update_metadata/update.json",
     "zipUrl": "https://github.com/snake-4/Zygisk-Assistant/releases/download/v2.1.4/zygisk-assistant-v2.1.4-release.zip",
-    "icon": "",
     "changelog": "https://github.com/snake-4/Zygisk-Assistant/releases"
   },
   {
@@ -54,9 +48,7 @@
     "description": "Modern super user interface implementation on Android.",
     "version": "v13.5.4.3",
     "versionCode": 589,
-    "updateJson": "",
     "zipUrl": "https://github.com/RikkaApps/Sui/releases/download/v13.5.4.3/Sui-13.5.4.3-589-release.zip",
-    "icon": "",
     "changelog": "https://github.com/RikkaApps/Sui/releases"
   },
   {
@@ -66,9 +58,7 @@
     "description": "Hide applications from root and environment detection.",
     "version": "oss-162",
     "versionCode": 162,
-    "updateJson": "",
     "zipUrl": "https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist/releases/latest/download/hidemyapplist.zip",
-    "icon": "",
     "changelog": "https://github.com/Xposed-Modules-Repo/com.tsng.hidemyapplist/releases"
   },
   {
@@ -80,7 +70,6 @@
     "versionCode": 19000,
     "updateJson": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/main/update.json",
     "zipUrl": "https://github.com/osm0sis/PlayIntegrityFork/releases/download/v19/PlayIntegrityFork-v19.zip",
-    "icon": "",
     "changelog": "https://github.com/osm0sis/PlayIntegrityFork/releases"
   },
   {
@@ -90,9 +79,7 @@
     "description": "Open-source implementation of Tricky Store for keybox and security properties spoofing.",
     "version": "v1.0.3",
     "versionCode": 103,
-    "updateJson": "",
     "zipUrl": "https://github.com/beakthoven/TrickyStoreOSS/releases/download/v1.0.3/TrickyStoreOSS-v1.0.3.zip",
-    "icon": "",
     "changelog": "https://github.com/beakthoven/TrickyStoreOSS/releases"
   },
   {
@@ -104,7 +91,6 @@
     "versionCode": 1240,
     "updateJson": "https://raw.githubusercontent.com/j-hc/zygisk-detach/main/update.json",
     "zipUrl": "https://github.com/j-hc/zygisk-detach/releases/download/v1.24.0/zygisk-detach-v1.24.0.zip",
-    "icon": "",
     "changelog": "https://github.com/j-hc/zygisk-detach/releases"
   },
   {
@@ -114,9 +100,7 @@
     "description": "A Magisk/KernelSU module that automatically adds user certificates to the system root CA store.",
     "version": "v1.3",
     "versionCode": 13,
-    "updateJson": "",
     "zipUrl": "https://github.com/NVISOsecurity/AlwaysTrustUserCerts/releases/download/v1.3/AlwaysTrustUserCerts_v1.3.zip",
-    "icon": "",
     "changelog": "https://github.com/NVISOsecurity/AlwaysTrustUserCerts/releases"
   },
   {
@@ -126,9 +110,7 @@
     "description": "Module to disable mounting for specific apps or directories in KernelSU/Magisk.",
     "version": "v1.2",
     "versionCode": 12,
-    "updateJson": "",
     "zipUrl": "https://github.com/Xposed-Modules-Repo/nomount/releases/latest/download/nomount.zip",
-    "icon": "",
     "changelog": "https://github.com/Xposed-Modules-Repo/nomount/releases"
   },
   {
@@ -138,9 +120,7 @@
     "description": "Advanced mounting implementation module for systemless modifications.",
     "version": "v1.1.0",
     "versionCode": 110,
-    "updateJson": "",
     "zipUrl": "https://github.com/KernelSU-Next/MagicMount/releases/latest/download/MagicMount.zip",
-    "icon": "",
     "changelog": "https://github.com/KernelSU-Next/MagicMount/releases"
   },
   {
@@ -150,9 +130,7 @@
     "description": "Enables OverlayFS support for mounting and systemless modifications on devices lacking native kernel support.",
     "version": "v1.6.3",
     "versionCode": 163,
-    "updateJson": "",
     "zipUrl": "https://github.com/HuskyDG/magisk_overlayfs/releases/latest/download/magisk_overlayfs.zip",
-    "icon": "",
     "changelog": "https://github.com/HuskyDG/magisk_overlayfs/releases"
   },
   {
@@ -162,9 +140,7 @@
     "description": "Zero-footprint mounting module for systemless modifications without leaving mount traces.",
     "version": "v1.0.0",
     "versionCode": 100,
-    "updateJson": "",
     "zipUrl": "https://github.com/KernelSU-Next/ZeroMount/releases/latest/download/ZeroMount.zip",
-    "icon": "",
     "changelog": "https://github.com/KernelSU-Next/ZeroMount/releases"
   },
   {
@@ -174,9 +150,7 @@
     "description": "Modern Xposed framework implementation (Canary build) for Zygisk.",
     "version": "canary",
     "versionCode": 9999,
-    "updateJson": "",
     "zipUrl": "https://github.com/JingMatrix/Vector/releases/latest/download/Vector.zip",
-    "icon": "",
     "changelog": "https://github.com/JingMatrix/Vector/releases"
   },
   {
@@ -186,9 +160,7 @@
     "description": "Device properties and game graphics spoofing module for unlocking higher FPS and graphics settings.",
     "version": "v1.1.0",
     "versionCode": 110,
-    "updateJson": "",
     "zipUrl": "https://github.com/AlirezaParsi/COPG/releases/latest/download/COPG.zip",
-    "icon": "",
     "changelog": "https://github.com/AlirezaParsi/COPG/releases"
   },
   {
@@ -198,9 +170,7 @@
     "description": "Utility module for cleaning temporary root artifacts and traces.",
     "version": "v1.0.0",
     "versionCode": 100,
-    "updateJson": "",
     "zipUrl": "https://github.com/winterballs/TRoot-artfCleaner/releases/latest/download/TRoot-artfCleaner.zip",
-    "icon": "",
     "changelog": "https://github.com/winterballs/TRoot-artfCleaner/releases"
   },
   {
@@ -210,9 +180,7 @@
     "description": "Enables flagship One UI features and optimizations on Samsung Galaxy A36.",
     "version": "v1.0.0",
     "versionCode": 100,
-    "updateJson": "",
     "zipUrl": "https://github.com/enderbk0/a36toflagship/releases/latest/download/a36toflagship.zip",
-    "icon": "",
     "changelog": "https://github.com/enderbk0/a36toflagship/releases"
   }
 ]
